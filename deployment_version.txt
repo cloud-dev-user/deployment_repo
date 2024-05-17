@@ -1,5 +1,5 @@
 # deployment_repo
 
-eagle: v1.9.0
+eagle: v2.1.0
 figma: v3.4.6
 tele: v3.4.5 
